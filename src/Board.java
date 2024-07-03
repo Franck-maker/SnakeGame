@@ -10,8 +10,8 @@ public class Board extends JPanel implements KeyListener, ActionListener {
     private final int RAND_POS = 29;
     private final int DELAY = 140;
 
-    private int [] snakeXlength = new int[ALL_TAILS];
-    private int [] snakeYlength = new int [ALL_TAILS];
+    private final int [] snakeXlength = new int[ALL_TAILS];
+    private final int [] snakeYlength = new int [ALL_TAILS];
 
     private int  tails;
     private int apple_x;

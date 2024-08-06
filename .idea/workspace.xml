@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4bfabd-bc5d-4331-9b63-32cfc00d05a0" name="Changes" comment="new changes">
-      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Watermelon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/watermelon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc4bfabd-bc5d-4331-9b63-32cfc00d05a0" name="Changes" comment="new changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +26,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -113,6 +102,7 @@
       <workItem from="1720169567202" duration="9000" />
       <workItem from="1720692813417" duration="887000" />
       <workItem from="1722951595730" duration="992000" />
+      <workItem from="1722952605291" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="starting with Swing">
       <option name="closed" value="true" />
@@ -186,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720095983212</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new changes">
+      <option name="closed" value="true" />
+      <created>1722952663086</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722952663086</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new changes">
+      <option name="closed" value="true" />
+      <created>1722953025221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722953025221</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

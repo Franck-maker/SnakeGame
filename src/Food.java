@@ -3,7 +3,7 @@ public interface Food {
     int getX();
     int getY();
     boolean isVisible();
-    void setVisible(boolean visible);
+
 }
 
 

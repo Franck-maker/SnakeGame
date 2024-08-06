@@ -3,8 +3,8 @@ import java.util.ArrayList;
 
 public class GameStats {
     private int score;
-    private ArrayList<String> playerNames;
-    private ArrayList<Integer> playerScores;
+    private final ArrayList<String> playerNames;
+    private final ArrayList<Integer> playerScores;
 
     public GameStats() {
         playerNames = new ArrayList<>();
@@ -12,28 +12,28 @@ public class GameStats {
         score = 0;
     }
 
-    public void addPlayer(String playerName) {
-        playerNames.add(playerName);
-        playerScores.add(0);
-    }
+    //public void addPlayer(String playerName) {
+        //playerNames.add(playerName);
+        //playerScores.add(0);
+    //}
 
     public void updateScore(int points) {
         score += points;
     }
 
-    public void savePlayerScore(String playerName) {
-        int index = playerNames.indexOf(playerName);
-        if (index != -1) {
-            playerScores.set(index, score);
-        }
-    }
-    public void displayFinalStats(String playerName) {
-        int index = playerNames.indexOf(playerName);
-        if (index != -1) {
-            int finalScore = playerScores.get(index);
-            System.out.println(playerName + ": " + finalScore);
-        }
-    }
+    //public void savePlayerScore(String playerName) {
+        //int index = playerNames.indexOf(playerName);
+        //if (index != -1) {
+            //playerScores.set(index, score);
+        //}
+    //}
+    //public void displayFinalStats(String playerName) {
+        //int index = playerNames.indexOf(playerName);
+        //if (index != -1) {
+            //int finalScore = playerScores.get(index);
+            //System.out.println(playerName + ": " + finalScore);
+        //}
+    //}
 
     public int getScore() { return score; }
     public ArrayList<String> getPlayerNames() { return playerNames; }

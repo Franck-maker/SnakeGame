@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4bfabd-bc5d-4331-9b63-32cfc00d05a0" name="Changes" comment="new changes" />
+    <list default="true" id="cc4bfabd-bc5d-4331-9b63-32cfc00d05a0" name="Changes" comment="last changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +102,7 @@
       <workItem from="1720169567202" duration="9000" />
       <workItem from="1720692813417" duration="887000" />
       <workItem from="1722951595730" duration="992000" />
-      <workItem from="1722952605291" duration="436000" />
+      <workItem from="1722952605291" duration="1159000" />
     </task>
     <task id="LOCAL-00001" summary="starting with Swing">
       <option name="closed" value="true" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722953025221</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="last changes">
+      <option name="closed" value="true" />
+      <created>1722954080363</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722954080363</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +248,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="starting with Swing" />
     <MESSAGE value="new changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="new changes" />
+    <MESSAGE value="last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
   </component>
 </project>
